@@ -1,3 +1,3 @@
 # AI_Assist
 #Test repo
-#demo repo
+#Built with MVVM Architecture
