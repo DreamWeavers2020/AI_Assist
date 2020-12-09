@@ -4,7 +4,4 @@
 #Built with MVVM Architecture
 #Test for demo
 
-#Demo
-#Demo
-#Demo
-#Demo
+
